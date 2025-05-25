@@ -6,11 +6,11 @@
 
 Задача автоматизировать позитивные и негативные сценарии покупки тура.
 
-#### [План]()
+#### [План](https://github.com/AlexDedyaev/Course_work/blob/main/docs/Plan.md)
 
-#### [Итоги тестирования]()
+#### [Итоги тестирования](https://github.com/AlexDedyaev/Course_work/blob/main/docs/Report.md)
 
-#### [Итоги автоматизации]()
+#### [Итоги автоматизации](https://github.com/AlexDedyaev/Course_work/blob/main/docs/Summary.md)
 
 #### Шаги воспроизведения
 
