@@ -297,5 +297,4 @@ public class PayCardTest {
         payPage.getCardCVCValue("123");
     }
 
-
 }

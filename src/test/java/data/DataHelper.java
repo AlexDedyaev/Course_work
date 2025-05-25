@@ -32,7 +32,6 @@ public class DataHelper {
         return LocalDate.now().plusYears(year).format(DateTimeFormatter.ofPattern("yy"));
     }
 
-
     // имя владельца
     public static String generateNameHolder() {
         String name = faker.name().firstName() + " " + faker.name().lastName();
@@ -47,7 +46,6 @@ public class DataHelper {
         } while (cvc.equals("000"));
         return cvc;
     }
-
 
     // Виды заполненных
     @Value
