@@ -1,5 +1,8 @@
 [![Java CI with Gradle](https://github.com/AlexDedyaev/Course_work/actions/workflows/gradle-publish.yml/badge.svg)](https://github.com/AlexDedyaev/Course_work/actions/workflows/gradle-publish.yml)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 62468018d38a18a17d1dd2121c9025866476b455
 ### Курсовой проект по модулю «Автоматизация тестирования» для профессии «Инженер по тестированию»
 ![img.png](docs/img.png)
 
