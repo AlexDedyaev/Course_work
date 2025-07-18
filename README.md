@@ -12,17 +12,17 @@
 
  [Итоги автоматизации](https://github.com/AlexDedyaev/Course_work/blob/main/docs/Summary.md)
 
-#### Шаги воспроизведения
+## Шаги воспроизведения
 
 **Предусловие**
 
 На ПК необходимо установить ```IntelliJ IDEA Community Edition```, ```Google Chrome```, ```Docker Desktop```
 
-**Установка и запуск:**
+**Подключение SUT к MySQL:**
 
 1. Скачать проект с репозитория на ```GitHub``` с помощью команды в консоли;
 ```
-git clone 
+git clone https://github.com/AlexDedyaev/Course_work
 ```
 
 2. Запустить Docker Desktop.
