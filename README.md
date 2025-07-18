@@ -1,16 +1,16 @@
 [![Java CI with Gradle](https://github.com/AlexDedyaev/Course_work/actions/workflows/gradle-publish.yml/badge.svg)](https://github.com/AlexDedyaev/Course_work/actions/workflows/gradle-publish.yml)
 ### Курсовой проект по модулю «Автоматизация тестирования» для профессии «Инженер по тестированию»
-![img.png](docs/img.png)
+
 
 [Ссылка на задание ](https://github.com/netology-code/aqa-qamid-diplom)
 
 Задача автоматизировать позитивные и негативные сценарии покупки тура.
 
-#### [План](https://github.com/AlexDedyaev/Course_work/blob/main/docs/Plan.md)
+ [План](https://github.com/AlexDedyaev/Course_work/blob/main/docs/Plan.md)
 
-#### [Итоги тестирования](https://github.com/AlexDedyaev/Course_work/blob/main/docs/Report.md)
+ [Итоги тестирования](https://github.com/AlexDedyaev/Course_work/blob/main/docs/Report.md)
 
-#### [Итоги автоматизации](https://github.com/AlexDedyaev/Course_work/blob/main/docs/Summary.md)
+ [Итоги автоматизации](https://github.com/AlexDedyaev/Course_work/blob/main/docs/Summary.md)
 
 #### Шаги воспроизведения
 
@@ -18,9 +18,9 @@
 
 На ПК необходимо установить ```IntelliJ IDEA Community Edition```, ```Google Chrome```, ```Docker Desktop```
 
-**Установка и запуск**
+**Установка и запуск:**
 
-1. Скачать проект с репозитория на ```GitHub``` с помощью команды в консоли:
+1. Скачать проект с репозитория на ```GitHub``` с помощью команды в консоли;
 ```
 git clone 
 ```
